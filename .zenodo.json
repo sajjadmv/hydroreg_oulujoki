@@ -1,0 +1,6 @@
+{
+  "title": "HydroReg Oulujoki",
+  "creators": [{"name": "Sajjad"}],
+  "description": "Reproducible workflow for hydropower regulation and data analysis",
+  "license": "MIT"
+}

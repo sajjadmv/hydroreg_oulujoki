@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local backups
+notebooks_backup/
+
+# Logs and temporary files
+*.log

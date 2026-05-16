@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+title: "HydroReg Oulujoki"
+
+message: >
+  If you use this software, please cite it using the metadata below.
+  A Zenodo DOI will be provided when available.
+
+type: software
+
+authors:
+  - given-names: "Sajjad"
+    family-names: "Sajjad"
+    affiliation: "University of Oulu"
+    email: "sajjadmv72@gmail.com"
+    orcid: "https://orcid.org/0000-0001-5170-4620"
+
+
+
+identifiers:
+  - type: url
+    value: "https://github.com/Reproducible workflow for hydropower regulation and data analysis/hydroreg_oulujoki"
+    description: GitHub repository
+
+
+
+repository-code: "https://github.com/Reproducible workflow for hydropower regulation and data analysis/hydroreg_oulujoki"
+
+url: "https://github.com/Reproducible workflow for hydropower regulation and data analysis/hydroreg_oulujoki"
+
+abstract: >
+  Reproducible workflow for hydropower regulation and data analysis
+
+keywords:
+  - research
+  - open-science
+  - reproducibility
+
+license: "MIT"
+
+version: "0.1.0"
+
+date-released: "2026"

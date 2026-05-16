@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "hourly": "Estimated hourly.xlsx",
+    "observed": "Observed daily.xlsx"
+  },
+  "outputs": {
+    "daily_simulated_from_hourly": "All_in_one_outputs/model_data/evaluation/daily_simulated_from_hourly.csv",
+    "daily_comparison_wide": "All_in_one_outputs/model_data/evaluation/daily_comparison_wide.csv",
+    "daily_comparison_long": "All_in_one_outputs/model_data/evaluation/daily_comparison_long.csv",
+    "coefficients": "All_in_one_outputs/model_data/statistical_model/coefficients.csv",
+    "fit_metrics": "All_in_one_outputs/model_data/statistical_model/fit_metrics.csv",
+    "predictions": "All_in_one_outputs/model_data/statistical_model/predictions.csv",
+    "model_summary": "All_in_one_outputs/model_data/statistical_model/model_summary.txt"
+  },
+  "model_formula": "observed_daily_outflow ~ simulated_daily_outflow + sin_doy + cos_doy",
+  "estimator": "OLS",
+  "robust_se": "HC3",
+  "split": "chronological 80/20"
+}
