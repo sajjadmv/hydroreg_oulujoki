@@ -1,0 +1,23 @@
+name: Build and Push DockerHub Image
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build and push image to DockerHub
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build and push image with repo2docker
+        uses: jupyterhub/repo2docker-action@master
+        with:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+          IMAGE_NAME: sajjadmv/hydroreg_oulujoki
+          PUBLIC_REGISTRY_CHECK: true
