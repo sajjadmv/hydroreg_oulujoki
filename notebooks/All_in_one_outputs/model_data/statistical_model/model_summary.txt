@@ -10,7 +10,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.711
 Method:                     Least Squares   F-statistic:                     2903.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:22   Log-Likelihood:                -30.818
+Time:                            09:22:08   Log-Likelihood:                -30.818
 No. Observations:                    2920   AIC:                             69.64
 Df Residuals:                        2916   BIC:                             93.55
 Df Model:                               3                                         
@@ -44,7 +44,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.717
 Method:                     Least Squares   F-statistic:                     2939.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:22   Log-Likelihood:                -111.19
+Time:                            09:22:08   Log-Likelihood:                -111.19
 No. Observations:                    2920   AIC:                             230.4
 Df Residuals:                        2916   BIC:                             254.3
 Df Model:                               3                                         
@@ -78,7 +78,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.727
 Method:                     Least Squares   F-statistic:                     3082.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:23   Log-Likelihood:                -6.2356
+Time:                            09:22:09   Log-Likelihood:                -6.2356
 No. Observations:                    2920   AIC:                             20.47
 Df Residuals:                        2916   BIC:                             44.39
 Df Model:                               3                                         
@@ -112,7 +112,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.735
 Method:                     Least Squares   F-statistic:                     3203.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:23   Log-Likelihood:                 47.876
+Time:                            09:22:09   Log-Likelihood:                 47.876
 No. Observations:                    2920   AIC:                            -87.75
 Df Residuals:                        2916   BIC:                            -63.83
 Df Model:                               3                                         
@@ -146,7 +146,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.734
 Method:                     Least Squares   F-statistic:                     3137.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:23   Log-Likelihood:                 16.755
+Time:                            09:22:09   Log-Likelihood:                 16.755
 No. Observations:                    2920   AIC:                            -25.51
 Df Residuals:                        2916   BIC:                            -1.592
 Df Model:                               3                                         
@@ -180,7 +180,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.7
 Model:                                OLS   Adj. R-squared:                  0.732
 Method:                     Least Squares   F-statistic:                     3149.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:23   Log-Likelihood:                -35.055
+Time:                            09:22:10   Log-Likelihood:                -35.055
 No. Observations:                    2920   AIC:                             78.11
 Df Residuals:                        2916   BIC:                             102.0
 Df Model:                               3                                         
@@ -214,7 +214,7 @@ Dep. Variable:     observed_daily_outflow   R-squared:                       0.6
 Model:                                OLS   Adj. R-squared:                  0.691
 Method:                     Least Squares   F-statistic:                     2626.
 Date:                    Sat, 16 May 2026   Prob (F-statistic):               0.00
-Time:                            09:03:24   Log-Likelihood:                -473.86
+Time:                            09:22:10   Log-Likelihood:                -473.86
 No. Observations:                    2920   AIC:                             955.7
 Df Residuals:                        2916   BIC:                             979.6
 Df Model:                               3                                         
